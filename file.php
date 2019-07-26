@@ -1,6 +1,7 @@
 <?php
 /* setting bot */
-
+$t="
+";
 $biru="[1;34m";
 $tr="[1;36m";
 $ijo="[92m";
