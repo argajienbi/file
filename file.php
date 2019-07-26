@@ -16,7 +16,7 @@ $gluward=$ijo."
 ╚═╝╚═╝╚═╝╚══╝╚══╝╚╝─╚═╝.
 creator:$ijo armin gandi $putih || Yuotube Chanel:$ijo Armin Gandi$putih";
 
-$banner=
+$banner="
 echo $red."╔╗─╔╗╔═══╗╔╗───╔═══╗".$t;
 echo $kuning."║║─║║║╔═╗║║║───║╔═╗║".$t;
 echo $ijo."║╚═╝║║║─║║║║───║╚══╗".$t;
